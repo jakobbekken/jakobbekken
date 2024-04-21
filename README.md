@@ -29,6 +29,6 @@ let me = Student {
   </a>
 </div>
 <br/>
-[Contact me!](https::/jokko.no) I love connecting and chatting with people!
+📬 <a href="https::/jokko.no">Contact me!</a> I love connecting and chatting with people! 💻
 <br/>
 Working on the README.md 🫣
