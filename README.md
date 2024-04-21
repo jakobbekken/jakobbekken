@@ -4,7 +4,7 @@
 let me = Student {
     name: "Jakob Moen Bekken",
     born: 2004,
-    university: UNI::UNIVERSITY_OF_AGDER,
+    university: Uni::UNIVERSITY_OF_AGDER,
     field: "M.Sc Artificial Intelligence",
     about: r#"
 
@@ -28,5 +28,7 @@ let me = Student {
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
+<br/>
+[Contact me!](https::/jokko.no) I love connecting and chatting with people!
+<br/>
 Working on the README.md 🫣
