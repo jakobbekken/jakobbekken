@@ -8,8 +8,6 @@ let me = Student {
     field: "M.Sc Artificial Intelligence",
     about: r#"
 
-    Hey, I am Jakob!
-
     I am doing an integrated masters degree at UiA Grimstad. Moved 
     there in 2023 and love it here! I work for a better student 
     environment, voluntaring as the vice leader for the student 
